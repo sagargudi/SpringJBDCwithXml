@@ -1,0 +1,15 @@
+package com.spring.jdbc.Dao;
+
+import com.spring.jdbc.entity.Student;
+
+public class StudentDaoImpel  implements StudentDao{
+
+	public int insert(Student student) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	
+	
+
+}

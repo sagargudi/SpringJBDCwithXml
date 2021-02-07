@@ -1,0 +1,10 @@
+package com.spring.jdbc.Dao;
+
+public class StudentDaoImpel  implements StudentDao{
+
+	public int insert() {
+		return 0;
+		
+	}
+
+}

@@ -1,0 +1,12 @@
+package com.spring.jdbc.Dao;
+
+public interface StudentDao {
+
+	public int insert();
+	
+	
+	
+	
+	
+	
+}
